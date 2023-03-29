@@ -1,0 +1,1 @@
+# mulesoft-platform-architect-class
